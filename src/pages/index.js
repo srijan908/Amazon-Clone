@@ -29,11 +29,9 @@ export async function getServerSideProps(context) {
     (res) => res.json()
   );
 
-  console.log("hi");
-
   return {
     props: {
-      products,
+      products
     },
   };
 }
