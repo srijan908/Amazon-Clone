@@ -1,0 +1,4 @@
+Nextjs - framework for react works as a server between browser and source
+tailwind-css - framework css
+heroicon- icon images
+FakeStoreApi to populate the website with products
